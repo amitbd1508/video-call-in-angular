@@ -1,7 +1,7 @@
 # VideoCall
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e83655d9-492f-4b0a-b096-52cd0f22e0ee/deploy-status)](https://app.netlify.com/sites/objective-nobel-220dee/deploys)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

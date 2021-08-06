@@ -1,6 +1,6 @@
 export class SoundMeter {
 
-  private instant: number = 0.0;
+  private instant = 0.0;
   private script!: ScriptProcessorNode;
   private mic!: MediaStreamAudioSourceNode;
 
